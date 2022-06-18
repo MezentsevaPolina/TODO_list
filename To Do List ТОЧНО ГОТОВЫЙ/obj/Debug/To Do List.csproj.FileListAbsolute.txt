@@ -1,0 +1,23 @@
+C:\Users\Mezentseva Polina\source\repos\To Do List\bin\Debug\To Do List.exe.config
+C:\Users\Mezentseva Polina\source\repos\To Do List\bin\Debug\To Do List.exe
+C:\Users\Mezentseva Polina\source\repos\To Do List\bin\Debug\To Do List.pdb
+C:\Users\Mezentseva Polina\source\repos\To Do List\obj\Debug\To Do List.csproj.AssemblyReference.cache
+C:\Users\Mezentseva Polina\source\repos\To Do List\obj\Debug\To_Do_List.Form1.resources
+C:\Users\Mezentseva Polina\source\repos\To Do List\obj\Debug\To_Do_List.Properties.Resources.resources
+C:\Users\Mezentseva Polina\source\repos\To Do List\obj\Debug\To Do List.csproj.GenerateResource.cache
+C:\Users\Mezentseva Polina\source\repos\To Do List\obj\Debug\To Do List.csproj.CoreCompileInputs.cache
+C:\Users\Mezentseva Polina\source\repos\To Do List\obj\Debug\To Do List.exe
+C:\Users\Mezentseva Polina\source\repos\To Do List\obj\Debug\To Do List.pdb
+C:\Users\Mezentseva Polina\source\repos\To Do List\obj\Debug\To_Do_List.dela.resources
+C:\To Do List\bin\Debug\To Do List.exe.config
+C:\To Do List\bin\Debug\To Do List.exe
+C:\To Do List\bin\Debug\To Do List.pdb
+C:\To Do List\obj\Debug\To Do List.csproj.AssemblyReference.cache
+C:\To Do List\obj\Debug\To_Do_List.dela.resources
+C:\To Do List\obj\Debug\To_Do_List.Form1.resources
+C:\To Do List\obj\Debug\To_Do_List.Properties.Resources.resources
+C:\To Do List\obj\Debug\To Do List.csproj.GenerateResource.cache
+C:\To Do List\obj\Debug\To Do List.csproj.CoreCompileInputs.cache
+C:\To Do List\obj\Debug\To Do List.exe
+C:\To Do List\obj\Debug\To Do List.pdb
+C:\To Do List\obj\Debug\To_Do_List.info.resources
